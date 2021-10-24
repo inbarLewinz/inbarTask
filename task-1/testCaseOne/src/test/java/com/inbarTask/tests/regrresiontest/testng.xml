@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Asos automated tests" verbose="1" >
+    <test name="signup negative test">
+        <classes>
+            <class name="com.inbarAutomation.tests.negativeTests.SignUpNegativeTest"/>
+        </classes>
+    </test>
+    <test name="signup test">
+        <classes>
+            <class name="com.inbarAutomation.tests.signUp.SignUpTest"/>
+     </classes>
+    </test>
+</suite>
