@@ -1,11 +1,20 @@
 
+## Installation
+
+ Use this link [pip](https://www.jetbrains.com/idea/download/#section=windows) to install intelij.
+ 
+  Use this link [pip](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) to install JDK 11.
+
+
 ## Explanation 
+To run the project:
 
-Click on generateFiles
-Click on mission.bat
+dowload this as a zip 
 
-## Warning 
-**The script will delete itself**
-**Otherwise you can add those scripts to window's paths. Create a test folder, open CMD on this folder and run those scripts**
+import it to maven as a "maven project"
+
+**To run the test:**
+in "inbarTest" run- "TestInbar" 
+in TestCaseOne run - "SearchTest"
 
 
